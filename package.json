@@ -1,0 +1,24 @@
+{
+  "name": "rainbowlog",
+  "version": "1.0.0",
+  "description": "Creates a colourful console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicklas-Youden/rainbowlog.git"
+  },
+  "keywords": [
+    "console",
+    "rainbow",
+    "colors"
+  ],
+  "author": "Nicklas Hansen Youden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicklas-Youden/rainbowlog/issues"
+  },
+  "homepage": "https://github.com/Nicklas-Youden/rainbowlog#readme"
+}
